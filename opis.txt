@@ -1,1 +1,3 @@
 Pierwszy plik w repozytorium, z jego opisem. 
+
+Repozytorium stworzone na potrzeby æwiczenia w ramach przygotowania do kursu Analityka Danych.
